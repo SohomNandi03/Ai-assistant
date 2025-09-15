@@ -1,12 +1,31 @@
-# React + Vite
+# 🤖 AI Assistant Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple **AI Assistant Web Application** built using **React** and **Bootstrap CSS**.  
+The assistant provides smart features like weather updates, the latest news, and even live song playing.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- 🌦️ **Weather Updates** – Get real-time weather information for any city.  
+- 📰 **Latest News** – Stay updated with the top news headlines.  
+- 🎵 **Live Song Playing** – Play and control music directly inside the assistant.  
+- 💬 **Interactive UI** – Built with React and styled using Bootstrap for a clean and responsive design.  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **Frontend:** React (with React Router for navigation)  
+- **Styling:** Bootstrap CSS  
+- **APIs Used:**  
+  - Weather API (e.g., OpenWeatherMap)  
+  - News API (e.g., GNews API)  
+  - Music API / Spotify Web Playback SDK  
+
+---
+
+## 🚀 Installation & Setup
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/ai-assistant.git
+   cd ai-assistant
