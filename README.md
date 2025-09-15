@@ -23,9 +23,3 @@ The assistant provides smart features like weather updates, the latest news, and
 
 ---
 
-## 🚀 Installation & Setup
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/ai-assistant.git
-   cd ai-assistant
